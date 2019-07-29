@@ -1,5 +1,5 @@
 # minist_tensorflow
-                                                             Lenet_5实现手写数字识别及其实现
+Lenet_5实现手写数字识别及其实现
 本文针对lenet-5各部分进行了详细的介绍。出自论文Gradient-Based Learning Applied to Document Recognition
 一、基础概念
 为更好地了解lenet5原理，本部分介绍卷积和池化。
